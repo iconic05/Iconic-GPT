@@ -64,7 +64,7 @@ header .toggle a:nth-child(1) {
 }*/
 
 section {
-  background: url("/whitebg.jpg");
+  background: url("whitebg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   /*background-position: center;*/
@@ -78,7 +78,7 @@ section {
 }
 
 .background2 {
-  background: url("/yellow4.jpg");
+  background: url("yellow4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
